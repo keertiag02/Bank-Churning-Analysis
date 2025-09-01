@@ -1,6 +1,5 @@
 # Bank-Churning-Analysis
-Analyzed the dataset of 500 customers with 13 columns including their customerID, name, age, gender, location, and their bank information such as their credit score, balance, estimated salary, tenure, and whether they are active or non-active members, etc.
-Applied Pivot Tables and Pivot Charts in MS Excel. Performed Regression Analysis and inferential statistics to check which factors significantly impact the churn status of the bank.
+Performed descriptive, diagnostic , and exploratory analysis on the dataset containing 500 customer records, including their customerID, name, age, gender, location, and their bank information such as their credit score, balance, estimated salary, tenure, and whether they are active or non-active members, etc.
 
 More than 50% of the bank customers have churn the bank, out of which male are tend to churn more. According to the age category, youngsters (18-30 years), adults (30-50 years), and senior citizens (70-95 years) are tend to churn more. According to geography, people of France are tend to churn more. More than 50% of people are non-active members.
 
