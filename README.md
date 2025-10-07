@@ -6,4 +6,6 @@
 <li>According to geography, people of France tend to churn more.</li>
 <li>More than 50% of people are non-active.</li>
 </ol>
-<p>The bank must provide exclusive offers and policies , provide family-focused programs, provide banefits for long-term customers.</p>
+<ul>
+<li>The bank must provide exclusive offers and policies , provide family-focused programs, provide benefits for long-term customers.</li>
+</ul>
